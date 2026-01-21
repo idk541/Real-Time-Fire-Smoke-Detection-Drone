@@ -38,8 +38,8 @@ JETSON_FIRE_STATUS_URL = f"{JETSON_FIRE_API_BASE}/api/status"
 # 2. Copy token và paste vào TELEGRAM_BOT_TOKEN
 # 3. Gửi tin nhắn cho bot, truy cập: https://api.telegram.org/bot<TOKEN>/getUpdates
 # 4. Lấy chat_id từ response
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8537225731:AAE810E6yx-qyqWDoT0yFZFBGG_DiCxIfkY")
-TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "7957935827")
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "your_new_token_here")
+TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "your_chat_id_here")
 TELEGRAM_ENABLED = True  # ✅ Telegram đã bật!
 
 # Telegram rate limiting
